@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+h1 {
+  color: orange;
+}
+body {
+    background-image: url('https://img.freepik.com/premium-vector/movie-cinema-premiere-background_41737-251.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}

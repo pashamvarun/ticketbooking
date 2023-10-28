@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+h2 {
+  color: orange;
+}
+h1 {
+  color: orange;
+}
+body {
+    background-image: url('https://img.freepik.com/free-vector/film-strip-background-with-clapper-board_1017-33456.jpg?w=2000');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF;
+}
+   
